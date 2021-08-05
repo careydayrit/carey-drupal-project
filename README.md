@@ -1,2 +1,2 @@
 # carey-drupal-project
-Drupal 9 with Pantheon Integrated Composer for learning
+Drupal 8 with Pantheon Integrated Composer for learning
